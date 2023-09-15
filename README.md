@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **PCB Design**
 
-- 👨‍💻 All of my projects are available at [http://sohailsayed.com/](http://sohailsayed.com/)
+- 👨‍💻 All of my projects are available at [sohailsayed.com](https://sohailsayed.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@sohailsayed](https://medium.com/@sohailsayed)
+- 📝 Check out my writing [here](https://medium.com/@sohailsayed)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gPI624qblEwtfIxt1YKbvxoTBLgdcnUr/preview](https://drive.google.com/file/d/1gPI624qblEwtfIxt1YKbvxoTBLgdcnUr/preview)
+- 📄 Read more about my experiences [on my resume](https://drive.google.com/file/d/1gPI624qblEwtfIxt1YKbvxoTBLgdcnUr/preview)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
