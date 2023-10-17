@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohail</h1>
 <h3 align="center">A Software Engineer and Systems Design Engineering student at the University of Waterloo</h3>
 
-- 🔭 I’m currently working on [My Windows XP themed personal site!](http://sohailsayed.com/)
+- 🔭 I’m currently working on [My Windows XP themed personal site](http://sohailsayed.com/), and a **Particle Collision Simulator Based Game on C++** (aiming to launch within the month!)
 
 - 🌱 I’m currently learning **PCB Design**
 
