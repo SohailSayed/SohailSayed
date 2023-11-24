@@ -9,8 +9,7 @@
 
 - 📝 Check out my writing [here](https://medium.com/@sohailsayed)
 
-- 📄 Read more about my experiences [on my resume](https://drive.google.com/file/d/1gPI624qblEwtfIxt1YKbvxoTBLgdcnUr/preview)
-
+- 📄 Read more about my experiences [on my resume](https://drive.google.com/file/d/1vMlwNvDOHekfb-L4zX0651rk5vRDIuql/preview)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sohailmsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohailmsayed" height="30" width="40" /></a>
