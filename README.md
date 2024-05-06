@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Windows XP themed personal site](http://sohailsayed.com/), and an **Object Finding Rover Bot** 
 
-- 🌱 I’m currently interning at [Gastronomous](https://gastronomous.ca/), a kitchen automation Robotics company
+- 🌱 I’m recently interned at [Gastronomous](https://gastronomous.ca/), a kitchen automation Robotics company
 
 - 👨‍💻 All of my projects are available at [sohailsayed.com](https://sohailsayed.com/)
 
