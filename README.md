@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohail</h1>
 <h3 align="center">I like building robots (and sometimes software) and study Systems Design Engineering at the University of Waterloo</h3>
 
-- 🔭 I’m currently building an [Object Finding Rover Bot](https://how-im-building-findbot.super.site/)
+- 🔭 I’m currently building an [Object Finding Rover Bot](https://how-i-built-findbot.super.site/)
 - 👨‍💻 All of my projects are available at [sohailsayed.com](https://sohailsayed.com/)
 
 - 📄 Read more about my experiences [on my resume](https://www.sohailsayed.com/#/resume)
